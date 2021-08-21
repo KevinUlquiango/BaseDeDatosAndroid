@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaseDeDatosAndroid</string>
+    <string name="txt_codigo">Codigo producto</string>
+    <string name="txt_descripcion">Descripcion producto</string>
+    <string name="txt_precio">Precio producto</string>
+    <string name="btn_registro">Registro de producto</string>
+    <string name="btn_buscar">Buscar producto</string>
+    <string name="btn_eliminar">Eliminar producto</string>
+    <string name="btn_modificar">Modificar producto</string>
+</resources>
